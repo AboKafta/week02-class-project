@@ -30,7 +30,7 @@ Invalid input
 
 ## Limitations
 - Extra text is ignored
-- Negative voltages are checked
+- Negative voltages are not checked
 - 6 sig figs only
 
 ## Debugging Reflection
