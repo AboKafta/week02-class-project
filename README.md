@@ -36,3 +36,5 @@ Invalid input
 ## Debugging Reflection
 - A lot of the time, the file wasn't saved so compiling didn't work and bash didn't recognize a file.
 - One test failed cause I had 3A instead of 3 A
+
+Note: README was formatted with the help of Claude. However, all writing was done by me.
